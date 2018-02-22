@@ -1,5 +1,5 @@
 <h3>Oddschecker event Scraper</h3>
-A simple Ruby script which will get a valid Oddschecker event URL and it will return the event data in JSON format.
+A simple Ruby script which will return the event data in JSON format.
 The script will use nokogiri and open-uri gems in order to scrape the data.
 
 <h6>JSON format:</h6>
